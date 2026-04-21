@@ -1,0 +1,19 @@
+[
+  {"category": "Math", "question": "What is the square root of 81?", "choices": {"A": "7", "B": "8", "C": "9", "D": "11"}, "answer": "C"},
+  {"category": "Math", "question": "What is 12 x 12?", "choices": {"A": "132", "B": "144", "C": "124", "D": "148"}, "answer": "B"},
+  {"category": "Math", "question": "What is 2 to the power of 8?", "choices": {"A": "128", "B": "256", "C": "512", "D": "64"}, "answer": "B"},
+  {"category": "Math", "question": "How many degrees are in a right angle?", "choices": {"A": "45", "B": "180", "C": "90", "D": "360"}, "answer": "C"},
+  {"category": "Math", "question": "What is 15% of 200?", "choices": {"A": "25", "B": "30", "C": "35", "D": "40"}, "answer": "B"},
+
+  {"category": "General Knowledge", "question": "What is the capital of Australia?", "choices": {"A": "Sydney", "B": "Melbourne", "C": "Canberra", "D": "Brisbane"}, "answer": "C"},
+  {"category": "General Knowledge", "question": "How many bones are in the adult human body?", "choices": {"A": "198", "B": "206", "C": "212", "D": "224"}, "answer": "B"},
+  {"category": "General Knowledge", "question": "Which planet is closest to the sun?", "choices": {"A": "Venus", "B": "Earth", "C": "Mars", "D": "Mercury"}, "answer": "D"},
+  {"category": "General Knowledge", "question": "What gas do plants absorb from the atmosphere?", "choices": {"A": "Oxygen", "B": "Nitrogen", "C": "Carbon Dioxide", "D": "Hydrogen"}, "answer": "C"},
+  {"category": "General Knowledge", "question": "What is the chemical symbol for gold?", "choices": {"A": "Go", "B": "Gd", "C": "Au", "D": "Ag"}, "answer": "C"},
+
+  {"category": "History", "question": "In what year did World War II end?", "choices": {"A": "1943", "B": "1944", "C": "1945", "D": "1946"}, "answer": "C"},
+  {"category": "History", "question": "Who was the first person to walk on the moon?", "choices": {"A": "Buzz Aldrin", "B": "Yuri Gagarin", "C": "John Glenn", "D": "Neil Armstrong"}, "answer": "D"},
+  {"category": "History", "question": "Which empire built the Colosseum?", "choices": {"A": "Greek", "B": "Ottoman", "C": "Roman", "D": "Byzantine"}, "answer": "C"},
+  {"category": "History", "question": "What year did the Berlin Wall fall?", "choices": {"A": "1987", "B": "1988", "C": "1989", "D": "1990"}, "answer": "C"},
+  {"category": "History", "question": "The French Revolution began in which year?", "choices": {"A": "1776", "B": "1789", "C": "1799", "D": "1804"}, "answer": "B"}
+]
